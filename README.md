@@ -58,7 +58,8 @@ npx hardhat run scripts/deploy.js            # 本地链部署
 
 ## 联系
 
-- 微信 / 邮箱：`[待填写]`
+- 邮箱：2671329805@qq.com
+- 微信：GGBondql
 
 ---
 
